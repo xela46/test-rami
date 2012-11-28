@@ -1,3 +1,5 @@
+int x;
+
 <?php
 
 echo "hola";
