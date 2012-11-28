@@ -1,10 +1,13 @@
 <?php
+exit();
 
 echo "hola";
 
 
-echo "we";
+echo "whatsh";
 
 echo "buy";
+
+print("ciaoooooo");
 
 ?>
