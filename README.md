@@ -1,2 +1,1 @@
-test-rami
-=========
+Simple README file
